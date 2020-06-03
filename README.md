@@ -1,6 +1,6 @@
 # ecommerce-pci-aws
 
-This diagram the system design adopted to properly segment boundaries to help restrict the PCI DSS scope to system components necessary for secure functioning of the CDE resources hosted on the AWS platform. 
+This diagram shows the system design of provisioned resources adopted to properly segment boundaries to help restrict the PCI DSS scope to system components necessary for secure functioning of the CDE resources hosted on the AWS platform. 
 
 ![design](/images/sys_design.png)
 
