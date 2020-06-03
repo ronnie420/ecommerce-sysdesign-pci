@@ -1,8 +1,8 @@
-# ecommerce-sysdesign-pci
-This is the architectural diagram that shows the system design on cloud that fulfills the PCI requirements on the ecommerce site.
+# ecommerce-pci-aws
+
+This diagram the system design adopted to properly segment boundaries to help restrict the PCI DSS scope to system components necessary for secure functioning of the CDE resources hosted on the AWS platform. 
 
 ![design](/images/sys_design.png)
-Format: ![Alt Text](url)
 
 ## High-level solution of the architecture
 * Cloudflare’s Web Application Firewall (WAF) with rules to mitigate the OWASP web app vulnerabilities.
