@@ -1,7 +1,8 @@
 # ecommerce-sysdesign-pci
 This is the proposed system design architecture that indicates fulfillemnt of the PCI requirements on the ecommerce site.
 
-![Image of sys design]https://ibb.co/Z8YzDHL
+![design](https://ibb.co/Z8YzDHL)
+Format: ![Alt Text](url)
 
 ## High-level solution of the architecture
 Cloudflare’s Web Application Firewall (WAF) with rules to mitigate the OWASP web app vulnerabilities.
